@@ -1,0 +1,13 @@
+{
+  "command.randspawn.help": "/randspawn (claim when enabled), info [name], tp [name], set [name], regenerate [name], remove <name>, list, reload",
+  "command.randspawn.claim.opened": "Your one-time RandSpawn claim is open for %s minutes. Use /randspawn to claim.",
+  "command.randspawn.claim.success": "Your RandSpawn was assigned and you were teleported to it.",
+  "command.randspawn.claim.unavailable": "Your RandSpawn claim is unavailable, expired, or already used.",
+  "command.randspawn.info": "RandSpawn — %s\nUUID: %s\nDimension: %s\nCoordinates: %s %s %s",
+  "command.randspawn.not_found": "RandSpawn record not found.",
+  "command.randspawn.player_required": "This command requires a player.",
+  "command.randspawn.reload.restart": "Server configs are managed by NeoForge; restart or reload the world to apply file changes.",
+  "command.randspawn.removed": "Removed RandSpawn for %s.",
+  "command.randspawn.search_failed": "No safe RandSpawn could be found; the previous record was preserved.",
+  "command.randspawn.updated": "Updated RandSpawn for %s."
+}

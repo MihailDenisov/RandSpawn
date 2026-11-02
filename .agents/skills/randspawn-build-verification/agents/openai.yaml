@@ -1,0 +1,3 @@
+interface:
+  display_name: "RandSpawn Build Verification"
+  short_description: "Verify Gradle, tests, versions, and JAR output"

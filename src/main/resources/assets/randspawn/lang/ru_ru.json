@@ -1,0 +1,13 @@
+{
+  "command.randspawn.help": "/randspawn (получить точку, если режим включён), info [ник], tp [ник], set [ник], regenerate [ник], remove <ник>, list, reload",
+  "command.randspawn.claim.opened": "Одноразовое получение точки RandSpawn доступно %s минут. Используйте /randspawn.",
+  "command.randspawn.claim.success": "Точка RandSpawn назначена, вы телепортированы к ней.",
+  "command.randspawn.claim.unavailable": "Получение точки RandSpawn недоступно, просрочено или уже использовано.",
+  "command.randspawn.info": "RandSpawn — %s\nUUID: %s\nИзмерение: %s\nКоординаты: %s %s %s",
+  "command.randspawn.not_found": "Запись RandSpawn не найдена.",
+  "command.randspawn.player_required": "Эта команда должна выполняться игроком.",
+  "command.randspawn.reload.restart": "Серверный конфиг управляется NeoForge; перезапустите сервер или мир после изменения файла.",
+  "command.randspawn.removed": "Точка RandSpawn игрока %s удалена.",
+  "command.randspawn.search_failed": "Безопасную точку найти не удалось; прежняя запись сохранена.",
+  "command.randspawn.updated": "Точка RandSpawn игрока %s обновлена."
+}
